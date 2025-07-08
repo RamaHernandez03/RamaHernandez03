@@ -7,6 +7,14 @@
 
 ---
 
+### 🛠️ Tecnologías
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,python,flask,nodejs,java,spring,html,css,git,github,figma" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamaHernandez03&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
