@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer & Community Manager</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+build+cool+web+apps.;Let's+connect+and+create+awesome+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Bienvenido+a+mi+perfil+de+Github!;Desarrollando+nuevas+ideas.;" alt="Typing SVG" />
 </p>
 
 ---
