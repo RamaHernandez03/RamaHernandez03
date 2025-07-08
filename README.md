@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramiro Hernandez</h1>
-<h3 align="center">Full Stack Developer | Creative Technologist | Community Manager</h3>
+<h1 align="center">Hola 👋, Soy Ramiro Hernandez</h1>
+<h3 align="center">Full Stack Developer & Community Manager</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub+profile!;I+build+cool+web+apps.;Let's+connect+and+create+awesome+things!" alt="Typing SVG" />
@@ -7,37 +7,14 @@
 
 ---
 
-### 🧠 About Me
-
-- 💼 I'm a **Full Stack Developer** from **Argentina**
-- 🔭 Currently working on: React, Tailwind, automation tools, and content bots
-- 🌱 Always learning: AI tools, Framer Motion, Spring Boot
-- 🎯 Goal: Build useful, aesthetic and efficient web apps
-- ✍️ I also create content for Instagram and manage digital campaigns
-- ⚡ Fun fact: I’m obsessed with productivity and comfy dev setups ☕
-
----
-
-### 📈 GitHub Stats (Totales)
+### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamaHernandez03&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamaHernandez03&layout=compact&theme=tokyonight)
 
 ---
 
-### 🔥 Streak & Lenguajes
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RamaHernandez03&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaHernandez03&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-### 🌐 Let's Connect!
+### 🌐 Conectemos!
 
 <p align="left">
   <a href="https://ramiro-hernandez.netlify.app" target="_blank">
@@ -58,13 +35,6 @@
 - 🚀 [Patitas Perdidas](https://github.com/RamaHernandez03/patitas-perdidas): web app para encontrar mascotas perdidas
 - 🤖 [UsersBot](https://github.com/RamaHernandez03/usersBot): bot automático estilo Dola AI para WhatsApp
 - 🧰 [Dev Portfolio](https://github.com/RamaHernandez03/dev-portfolio): portfolio hecho con React y Tailwind
-
----
-
-### ✨ Quote I Live By
-
-> *"Create. Break. Rebuild. Repeat."* 🚧  
-> _– probably me while coding at 2am_
 
 ---
 
