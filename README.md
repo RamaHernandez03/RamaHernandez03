@@ -10,7 +10,7 @@
 ### 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,python,flask,nodejs,java,spring,html,css,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,python,flask,nodejs,java,spring,html,css,git,figma" />
 </p>
 
 ---
