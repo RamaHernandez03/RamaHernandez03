@@ -18,19 +18,22 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 📈 GitHub Stats (Totales)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,python,nodejs,java,spring,html,css,git,github,vscode,figma" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RamaHernandez03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 Streak & Lenguajes
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamaHernandez03&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaHernandez03&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=RamaHernandez03&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamaHernandez03&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
