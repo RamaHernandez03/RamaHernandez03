@@ -20,9 +20,9 @@
 
 ### 📈 GitHub Stats (Totales)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamaHernandez03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RamaHernandez03&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RamaHernandez03&layout=compact&theme=tokyonight)
 
 ---
 
